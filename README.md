@@ -86,19 +86,17 @@ src="https://img.shields.io/badge/Concurso/Controladoria Interna, Função Audit
 ### <p style='font-size: 20px;'> 📑 Estatísticas </p>
 
 <div style='display: flex; gap: 10px'>
+  <img
+    align="left"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=leoonishii&show_icons=true&include_all_commits=true&theme=tokyonight"
+    />
 
-<img
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=leoonishii&show_icons=true&include_all_commits=true&theme=tokyonight"
-  />
-  
-<img
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoonishii&locale=pt-br&theme=tokyonight"
-  />
-
+  <img
+    align="left"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoonishii&locale=pt-br&theme=tokyonight"
+    />
 </div>
 
 ###
