@@ -4,7 +4,25 @@
 
 ### <p style='font-size: 20px'>🙋‍♂️  Eaí Beleza?</p>
 
-<p align="justify">Meu nome é Leonardo Takehide Onishi, sou Contador pela Universidade Paranaense - UNIPAR, tenho duas especializações pelo Centro Universitário Celso Lisboa, sendo elas:<br><br>* Business Intelligence, big data e analytics;<br>*MBA em auditoria e compliance e gestão de riscos.<br><br>A minha curiosidade, o interesse em tecnologia e na resolução de problemas me levou a começar a Programar. Sou uma pessoa tranquila, correta, analítica e muito dinãmica.</p>
+<p align="justify">Meu nome é Leonardo Takehide Onishi sou Contador pela Universidade Paranaense - UNIPAR <p align="justify">A minha curiosidade, o interesse em tecnologia e na resolução de problemas me levou a começar a Programar. Sou uma pessoa tranquila, correta, analítica e muito dinâmica.</p></p>
+
+
+Minhas especializações:
+<br>
+
+<img 
+src="https://img.shields.io/badge/Business Intelligence, big data e analytics-Centro Universitário Celso Lisboa-blue.svg"
+/>
+<img 
+src="https://img.shields.io/badge/MBA em auditoria e compliance e gestão de riscos-Centro Universitário Celso Lisboa-green.svg"
+/>
+
+Hoje estou cursando:
+
+<img 
+src="https://img.shields.io/badge/Especialização Avançada em Python - UTFPR-green.svg"
+/>
+
 
 ##
 
