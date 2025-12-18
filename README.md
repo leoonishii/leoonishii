@@ -2,10 +2,9 @@
 
 ###
 
-### <p style='font-size: 20px'>🙋‍♂️  Eaí Beleza?</p>
+### <p style='font-size: 20px'>🙋‍♂️ Eaí Beleza?</p>
 
 <p align="justify">Meu nome é Leonardo Takehide Onishi sou Contador pela Universidade Paranaense - UNIPAR <p align="justify">A minha curiosidade, o interesse em tecnologia e na resolução de problemas me levou a começar a Programar. Sou uma pessoa tranquila, correta, analítica e muito dinâmica.</p></p>
-
 
 Minhas especializações:
 <br>
@@ -23,10 +22,18 @@ Hoje estou cursando:
 src="https://img.shields.io/badge/Especialização Avançada em Python - UTFPR-green.svg"
 />
 
+##
+
+<br>
+<a href="https://www.linkedin.com/in/leonardo-onishi">
+<img 
+src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+</a>
 
 ##
 
-### <p style='font-size: 20px'>📌  Minhas Experiências</p>
+### <p style='font-size: 20px'>📌 Minhas Experiências</p>
 
 <p align="justify">
 Sou servidor público há 8 anos ná área de Controladoria Interna e parcialmente tecnologia.
@@ -58,7 +65,7 @@ src="https://img.shields.io/badge/Concurso/Controladoria Interna, Função Audit
 
 ##
 
-### <p style='font-size: 20px;'>📚  Minhas Linguagens de interesse</p>
+### <p style='font-size: 20px;'>📚 Minhas Linguagens de interesse</p>
 
 <br>
 
@@ -80,18 +87,17 @@ src="https://img.shields.io/badge/Concurso/Controladoria Interna, Função Audit
 
 <div style='display: flex; gap: 10px'>
 
-  <img
+<img
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=leoonishii&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api?username=leoonishii&show_icons=true&include_all_commits=true&theme=tokyonight"
   />
 
-  <img
+<img
   align="left"
   height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoonishii&locale=pt-br&theme=tokyonight"
   />
- 
 
 </div>
 
