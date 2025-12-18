@@ -2,21 +2,49 @@
 
 ###
 
-### <p style='font-size: 25px'>Eaí Beleza?</p>
+### <p style='font-size: 20px'>🙋‍♂️  Eaí Beleza?</p>
 
 <p align="justify">Meu nome é Leonardo Takehide Onishi, sou Contador pela Universidade Paranaense - UNIPAR, tenho duas especializações pelo Centro Universitário Celso Lisboa, sendo elas:<br><br>* Business Intelligence, big data e analytics;<br>*MBA em auditoria e compliance e gestão de riscos.<br><br>A minha curiosidade, o interesse em tecnologia e na resolução de problemas me levou a começar a Programar. Sou uma pessoa tranquila, correta, analítica e muito dinãmica.</p>
 
 ##
 
-### <p style='font-size: 25px;'>Meus_Interesses.dev</p>
+### <p style='font-size: 20px'>📌  Minhas Experiências</p>
 
-###
+<p align="justify">
+Sou servidor público há 8 anos ná área de Controladoria Interna e parcialmente tecnologia.
+</p>
+
+<img 
+src="https://img.shields.io/badge/Estagiário-2019-blue.svg"
+/>
+🔽
+
+<img 
+src="https://img.shields.io/badge/Assessor Especial-2020-blue.svg"
+/>
+🔽
+
+<img 
+src="https://img.shields.io/badge/Assessor Especial Tecnologia-2021-blue.svg"
+/>
+🔽
+
+<img 
+src="https://img.shields.io/badge/Assessor Especial Auditoria e dados-2021-blue.svg"
+/>
+🔽
+
+<img 
+src="https://img.shields.io/badge/Concurso/Controladoria Interna, Função Auditorias e dados-Atualmente-blue.svg"
+/>
+
+##
+
+### <p style='font-size: 20px;'>📚  Minhas Linguagens de interesse</p>
+
+<br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -30,7 +58,7 @@
 
 ##
 
-### <p style='font-size: 25px;'>Estatísticas </p>
+### <p style='font-size: 20px;'> 📑 Estatísticas </p>
 
 <div style='display: flex; gap: 10px'>
 
