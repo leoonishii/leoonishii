@@ -31,9 +31,9 @@
 ##
 
 ### <p style='font-size: 25px;'>Estatísticas </p>
-<div style='display:flex; gap: 8px' align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoonishii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=leoonishii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph" style='padding-right:10px' /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoonishii&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+</p>
 
 ###
