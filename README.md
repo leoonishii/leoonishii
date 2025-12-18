@@ -32,10 +32,21 @@
 
 ### <p style='font-size: 25px;'>Estatísticas </p>
 
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loonishii&show_icons=true&theme=tokyonight&locale=pt-br)
+<div style='display: flex; gap: 10px'>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoonishii&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+  <img
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=leoonishii&show_icons=true&locale=pt-br&theme=tokyonight"
+  />
+
+  <img
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoonishii&locale=pt-br&theme=tokyonight"
+  />
+ 
+
+</div>
 
 ###
