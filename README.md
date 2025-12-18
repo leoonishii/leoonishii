@@ -83,7 +83,7 @@ src="https://img.shields.io/badge/Concurso/Controladoria Interna, Função Audit
   <img
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=leoonishii&show_icons=true&locale=pt-br&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api?username=leoonishii&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
   />
 
   <img
